@@ -1,4 +1,3 @@
-# Front-End Web Developer Nanodegree Program
 ## Project 3 - Memory Game
 
 This is a Memory game with HTML, CSS and JS.
